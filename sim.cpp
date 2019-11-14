@@ -191,13 +191,22 @@ class Cache {
             cout<<"set\t"<<i<<":";
             sort(it->blocks.begin(),it->blocks.end(),CompareTimestamp);
             for(vector<Block>::iterator bl_it=it->blocks.begin(); bl_it!=it->blocks.end(); bl_it++){                
-                char dirty_char;
-                if(bl_it->is_dirty){
-                    dirty_char='D';
-                }else{
-                    dirty_char='N';
+                // char dirty_char;
+                // if(bl_it->is_dirty){
+                //     dirty_char='D';
+                // }else{
+                //     dirty_char='N';
+                // }
+                if(bl_it->tag_id==0)
+                {
+                    printf("\t");
                 }
-                printf("\t%0x %c\t||",bl_it->tag_id,dirty_char);
+                else
+                {
+                    printf("\t%0x",bl_it->tag_id);
+                }
+                
+                
                 
             }
             cout<<"\n";
@@ -569,18 +578,6 @@ class Hybrid:public BranchPredictor
 
 };
 
-class BtbNode
-{
-    unsigned int tag_id;
-    bool is_valid;
-    unsigned int target;
-    int branch_type;
-};
-
-class Btb
-{
-    vector<BtbNode> nodes;
-};
 
 int main(int argc, char* _argv[])
 {
@@ -718,6 +715,7 @@ int main(int argc, char* _argv[])
         cout<<"total mispredictions:	"<<bp->num_mispredictions+btb_mispred<<"\n";
         printf("misprediction rate: 	%0.2f%%\n",(total_mispred/(float)line)*100.00);        
         btb->PrintCacheContent();
+        cout<<"\n";
         bp->PrintContents();
     }
     

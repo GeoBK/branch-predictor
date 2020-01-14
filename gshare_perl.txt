@@ -1,0 +1,282 @@
+COMMAND
+./sim gshare 7 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 486879
+misprediction rate: 24.34%
+COMMAND
+./sim gshare 8 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 338433
+misprediction rate: 16.92%
+COMMAND
+./sim gshare 9 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 271429
+misprediction rate: 13.57%
+COMMAND
+./sim gshare 10 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 212689
+misprediction rate: 10.63%
+COMMAND
+./sim gshare 11 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 202126
+misprediction rate: 10.11%
+COMMAND
+./sim gshare 12 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 180545
+misprediction rate: 9.03%
+COMMAND
+./sim gshare 13 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 184575
+misprediction rate: 9.23%
+COMMAND
+./sim gshare 14 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 161408
+misprediction rate: 8.07%
+COMMAND
+./sim gshare 15 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 160408
+misprediction rate: 8.02%
+COMMAND
+./sim gshare 16 2 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 160769
+misprediction rate: 8.04%
+COMMAND
+./sim gshare 7 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 519197
+misprediction rate: 25.96%
+COMMAND
+./sim gshare 8 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 381794
+misprediction rate: 19.09%
+COMMAND
+./sim gshare 9 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 293687
+misprediction rate: 14.68%
+COMMAND
+./sim gshare 10 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 226958
+misprediction rate: 11.35%
+COMMAND
+./sim gshare 11 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 193603
+misprediction rate: 9.68%
+COMMAND
+./sim gshare 12 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 161749
+misprediction rate: 8.09%
+COMMAND
+./sim gshare 13 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 145331
+misprediction rate: 7.27%
+COMMAND
+./sim gshare 14 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 147094
+misprediction rate: 7.35%
+COMMAND
+./sim gshare 15 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 145603
+misprediction rate: 7.28%
+COMMAND
+./sim gshare 16 4 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 130835
+misprediction rate: 6.54%
+COMMAND
+./sim gshare 7 6 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 574206
+misprediction rate: 28.71%
+COMMAND
+./sim gshare 8 6 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 409087
+misprediction rate: 20.45%
+COMMAND
+./sim gshare 9 6 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 324956
+misprediction rate: 16.25%
+COMMAND
+./sim gshare 10 6 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 230495
+misprediction rate: 11.52%
+COMMAND
+./sim gshare 11 6 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 172036
+misprediction rate: 8.60%
+COMMAND
+./sim gshare 12 6 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 149959
+misprediction rate: 7.50%
+COMMAND
+./sim gshare 8 8 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 495760
+misprediction rate: 24.79%
+COMMAND
+./sim gshare 9 8 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 353184
+misprediction rate: 17.66%
+COMMAND
+./sim gshare 10 8 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 248331
+misprediction rate: 12.42%
+COMMAND
+./sim gshare 11 8 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 180021
+misprediction rate: 9.00%
+COMMAND
+./sim gshare 12 8 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 129841
+misprediction rate: 6.49%
+COMMAND
+./sim gshare 10 10 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 291319
+misprediction rate: 14.57%
+COMMAND
+./sim gshare 11 10 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 179598
+misprediction rate: 8.98%
+COMMAND
+./sim gshare 12 10 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 134202
+misprediction rate: 6.71%
+COMMAND
+./sim gshare 13 10 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 98492
+misprediction rate: 4.92%
+COMMAND
+./sim gshare 14 10 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 75966
+misprediction rate: 3.80%
+COMMAND
+./sim gshare 15 10 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 71675
+misprediction rate: 3.58%
+COMMAND
+./sim gshare 16 10 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 76838
+misprediction rate: 3.84%
+COMMAND
+./sim gshare 12 12 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 143222
+misprediction rate: 7.16%
+COMMAND
+./sim gshare 13 12 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 101816
+misprediction rate: 5.09%
+COMMAND
+./sim gshare 14 12 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 86034
+misprediction rate: 4.30%
+COMMAND
+./sim gshare 15 12 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 67000
+misprediction rate: 3.35%
+COMMAND
+./sim gshare 16 12 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 70589
+misprediction rate: 3.53%
+COMMAND
+./sim gshare 14 14 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 75040
+misprediction rate: 3.75%
+COMMAND
+./sim gshare 15 14 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 71652
+misprediction rate: 3.58%
+COMMAND
+./sim gshare 16 14 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 60148
+misprediction rate: 3.01%
+COMMAND
+./sim gshare 16 16 0 0 ./traces/perl_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 58189
+misprediction rate: 2.91%

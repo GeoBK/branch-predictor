@@ -1,0 +1,258 @@
+COMMAND
+./sim gshare 7 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 161581
+misprediction rate: 8.08%
+COMMAND
+./sim gshare 8 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 155708
+misprediction rate: 7.79%
+COMMAND
+./sim gshare 9 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 151619
+misprediction rate: 7.58%
+COMMAND
+./sim gshare 10 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 149728
+misprediction rate: 7.49%
+COMMAND
+./sim gshare 11 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 148947
+misprediction rate: 7.45%
+COMMAND
+./sim gshare 12 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 148835
+misprediction rate: 7.44%
+COMMAND
+./sim gshare 13 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 146570
+misprediction rate: 7.33%
+COMMAND
+./sim gshare 14 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 146428
+misprediction rate: 7.32%
+COMMAND
+./sim gshare 15 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 146296
+misprediction rate: 7.31%
+COMMAND
+./sim gshare 16 2 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 146226
+misprediction rate: 7.31%
+COMMAND
+./sim gshare 7 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 178396
+misprediction rate: 8.92%
+COMMAND
+./sim gshare 8 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 157505
+misprediction rate: 7.88%
+COMMAND
+./sim gshare 9 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 153519
+misprediction rate: 7.68%
+COMMAND
+./sim gshare 10 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 147514
+misprediction rate: 7.38%
+COMMAND
+./sim gshare 11 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 145362
+misprediction rate: 7.27%
+COMMAND
+./sim gshare 12 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 145193
+misprediction rate: 7.26%
+COMMAND
+./sim gshare 13 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 144892
+misprediction rate: 7.24%
+COMMAND
+./sim gshare 14 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 143314
+misprediction rate: 7.17%
+COMMAND
+./sim gshare 15 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 142610
+misprediction rate: 7.13%
+COMMAND
+./sim gshare 16 4 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 142524
+misprediction rate: 7.13%
+COMMAND
+./sim gshare 7 6 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 194735
+misprediction rate: 9.74%
+COMMAND
+./sim gshare 8 6 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 177337
+misprediction rate: 8.87%
+COMMAND
+./sim gshare 9 6 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 162637
+misprediction rate: 8.13%
+COMMAND
+./sim gshare 10 6 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 151513
+misprediction rate: 7.58%
+COMMAND
+./sim gshare 11 6 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 147639
+misprediction rate: 7.38%
+COMMAND
+./sim gshare 12 6 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 143752
+misprediction rate: 7.19%
+COMMAND
+./sim gshare 8 8 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 184042
+misprediction rate: 9.20%
+COMMAND
+./sim gshare 9 8 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 166058
+misprediction rate: 8.30%
+COMMAND
+./sim gshare 10 8 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 149061
+misprediction rate: 7.45%
+COMMAND
+./sim gshare 11 8 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 143348
+misprediction rate: 7.17%
+COMMAND
+./sim gshare 12 8 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 136893
+misprediction rate: 6.84%
+COMMAND
+./sim gshare 10 10 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 158951
+misprediction rate: 7.95%
+COMMAND
+./sim gshare 11 10 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 148866
+misprediction rate: 7.44%
+COMMAND
+./sim gshare 12 10 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 143647
+misprediction rate: 7.18%
+COMMAND
+./sim gshare 13 10 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 140362
+misprediction rate: 7.02%
+COMMAND
+./sim gshare 14 10 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 136835
+misprediction rate: 6.84%
+COMMAND
+./sim gshare 15 10 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 134375
+misprediction rate: 6.72%
+COMMAND
+./sim gshare 16 10 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 133978
+misprediction rate: 6.70%
+COMMAND
+./sim gshare 12 12 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 147072
+misprediction rate: 7.35%
+COMMAND
+./sim gshare 13 12 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 143374
+misprediction rate: 7.17%
+COMMAND
+./sim gshare 14 12 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 136727
+misprediction rate: 6.84%
+COMMAND
+./sim gshare 15 12 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 134053
+misprediction rate: 6.70%
+COMMAND
+./sim gshare 16 12 0 0 ./traces/jpeg_trace.txt
+OUTPUT
+number of predictions: 2000000
+number of mispredictions: 133235
+misprediction rate: 6.66%
